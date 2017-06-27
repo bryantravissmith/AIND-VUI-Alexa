@@ -2,3 +2,35 @@ GetNewFactIntent a fact
 GetNewFactIntent tell me a fact
 GetNewFactIntent give me a fact
 GetNewFactIntent give me something
+GetNewFactIntent another fact
+GetNewFactIntent one more fact
+GetNewFactIntent mo ichi doh
+GetNewFactIntent goju fact
+GetNewFactIntent goju ryu fact
+GetNewFactIntent another
+GetNewFactIntent again
+GetNewFactIntent say a fact
+GetNewFactIntent say another
+GetNewFactIntent one more please
+GetNewFactIntent one more
+GetNewFactIntent fact
+GetNewYearFactIntent {FACT_YEAR}
+GetNewYearFactIntent {FACT_YEAR} fact
+GetNewYearFactIntent {FACT_YEAR} goju fact
+GetNewYearFactIntent {FACT_YEAR} goju ryu fact
+GetNewYearFactIntent fact for {FACT_YEAR}
+GetNewYearFactIntent fact from {FACT_YEAR}
+GetNewYearFactIntent get fact for {FACT_YEAR}
+GetNewYearFactIntent get fact from {FACT_YEAR}
+GetNewYearFactIntent give fact for {FACT_YEAR}
+GetNewYearFactIntent give fact from {FACT_YEAR}
+GetNewYearFactIntent say a fact for {FACT_YEAR}
+GetNewYearFactIntent say a fact from  {FACT_YEAR}
+GetNewYearFactIntent give me something for {FACT_YEAR}
+GetNewYearFactIntent give me something from {FACT_YEAR}
+GetNewYearFactIntent something from {FACT_YEAR}
+GetNewYearFactIntent something for {FACT_YEAR}
+GetNewYearFactIntent goju for {FACT_YEAR}
+GetNewYearFactIntent goju from {FACT_YEAR}
+GetNewYearFactIntent goju ryu for {FACT_YEAR}
+GetNewYearFactIntent goju ryu from {FACT_YEAR}

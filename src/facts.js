@@ -2,11 +2,17 @@
 // Include at least 10 distinct facts with a 4-digit year included in the text for each
 module.exports = {
     "FACTS_EN": [
-        "The field of AI is considered to have its origin in 1950, with publication of British mathematician Alan Turing's paper, Computing Machinery and Intelligence.",
-        "The term, Artificial Intelligence, was coined in 1956 by mathematician and computer scientist John McCarthy, at Dartmouth College, in New Hampshire.",
-        "In 1997, a chess-playing program named Deep Blue, developed by IBM, beat the reigning world chess champion.",
-        "A so-called AI Winter occurred in 1974, when funding was cut after Speech Understanding research did not live up to its promise.",
-        "A driverless robotic car named Stanley, engineered by Sebastian Thrun's Stanford Racing team, sped through the Mojave desert at 22 miles per hour to win the 2005 Darpa Grand Challenge.",
-        "Replace me and add some more facts!"
+        "Gōjū-ryū is japanese for the hard soft way 2017",
+        "Chōjun Miyagi is the founder of Gōjū-ryū 2017",
+        "Chōjun Miyagi lived from 1888 to 1953",
+        "Chōjun Miyagi's teacher was Higaonna Kanryō 2017",
+        "Higaonna Kanryō lived from 1853 to 1915",
+        "Higaonna Kanryō is consider the founder of Naha-te, a precurser to Gōjū-ryū 2017",
+        "Higaonna Kanryō most famous students are Chōjun Miyagi, Kenwa Mabuni, Kyoda Shigehatsu, Koki Shiroma, Higa Seiko, Tsuyoshi Chitose and Shiroma Shinpan 2017",
+        "Three branches of Okinawa Karate are Shuri-te, Tomari-te, and Naha-te 2017",
+        "Gōjū-ryū, Uechi-ryū, Ryūei-ryū, Shito-ryu and Tōon-ryū are Naha-te Karate Styles 2017",
+        "Tomari-te include Wado-ryu, Motobu-ryū, Matsubayashi-ryu and Shōrinji-ryū 2017",
+        "Shuri-te include Shotokan, Shitō-ryū, Shōrin-ryū, Shudokan, Shōrinji-ryū, Gensei-ryu and Motobu-ryū 2017"
+
     ]
 }
